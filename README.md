@@ -1,6 +1,6 @@
 ## Hi! I'm Zane Shaw! 👋 ![](https://komarev.com/ghpvc/?username=squidee100)
 
-I'm a computer hobbiest that likes to make cool projects for fun! I'm a pretty fast learner so I'm happy to learn a new programming language for a project. I'm interested in css, html, javascript, c# and c++.
+I'm a computer hobbiest that likes to make cool projects for fun! I'm a pretty fast learner so I'm happy to learn a new programming language for a project. I'm interested in javascript, c# and c++.
 
 ## Social Links
 You can reach me through these platforms!
@@ -11,5 +11,7 @@ You can reach me through these platforms!
 * <img src="https://github.com/squidee100/profile/blob/main/logo-twitter2.png" width="24px" align="center"> [zaneshaw05](https://twitter.com/zaneshaw05)
 
 ## Stats
+[![squidee100's github stats](https://github-readme-stats.vercel.app/api?username=squidee100&show_icons=true&theme=nord&custom_title=squidee100's+GitHub+Stats)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=squidee100&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![squidee100's github stats](https://github-readme-stats.vercel.app/api?username=squidee100&show_icons=true&theme=react&custom_title=squidee100's+GitHub+Stats)](https://github.com/squidee100)
+[Stats by Ryota Sakamoto!](https://github.com/ryo-ma)
